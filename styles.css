@@ -1,17 +1,7 @@
-
-a {
-    color: var(--text);
-}
-
-
-
-::placeholder {
-    color: var(--text);
-}
 .kolom{
     display: flex;
     justify-content: space-evenly;
-    width: 100%;
+    width: 50%;
     padding:20px;
     margin-left: auto;
     margin-right: auto;
