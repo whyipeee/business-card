@@ -5,6 +5,7 @@
     padding:20px;
     margin-left: auto;
     margin-right: auto;
+    flex-wrap:wrap;
     border-bottom:5px solid #91CB3E;
     background: #EEE82C;
     color:black;
@@ -25,5 +26,6 @@ a:hover{
 
 .avatar{
     width:300px;
+    height: auto;
     
 }
